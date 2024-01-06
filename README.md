@@ -6,7 +6,7 @@
 
 ## Langkah-Langkah Pemasangan
 
-1. `git clone`
+1. `git clone git@github.com:lutfihakim28/lutfihakim-frontendtest.git`
 2. `cd lutfihakim-frontendtest`
 3. `npm install`
 
